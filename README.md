@@ -9,22 +9,23 @@ Want Cafe Stella Skin? [Try this!](https://github.com/Nofated095/Threshold-Yuzu/
 <summary>Original Content From Jack-Myth/Threshold-Miku</summary>
 
 ## How to Install
+
+**Method 1**:
+
 Download the skin, extract the zip file, then run `install.cmd`, it will automatically install to your steam.
 
-Or
+**Method 2**
 
-copy the folder to:
+Copy the folder to:
 * Windows - `C:\Program Files (x86)\Steam\skins`
 * Mac - `/Users/\<username\>/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/skins/`
 * Linux - `~/.steam/skins`
-
-In Arch Linux(& Arch derivatives like Manjaro), you can use AUR packages [Dark](https://aur.archlinux.org/packages/threshold-miku-dark-steam-skin)/[Light](https://aur.archlinux.org/packages/threshold-miku-light-steam-skin)
 
 ## How to Use
 1. In Steam, go to Settings > Interface > and choose Threshold Miku from the list of skins.
 2. Restart Steam and enjoy!
 
-# Introduce the Threshold Miku Light For SteamUI
+<!-- # Introduce the Threshold Miku Light For SteamUI
 ![](Previews/NewLibrary.jpg)  
 
 # Collapsed Sidebar is also supported!  
@@ -39,7 +40,7 @@ Use "Threshold Miku Customizer" to apply this Style.
 Q: Why my skin looks like this?  
 ![](Previews/QA/1.jpg)  
 A: Make sure you have the same setting on both sides.  
-![](Previews/QA/2.jpg)
+![](Previews/QA/2.jpg) -->
 
 </details>
 
