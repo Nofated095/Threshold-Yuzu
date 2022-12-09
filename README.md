@@ -1,21 +1,22 @@
 # Threshold Yuzu Soft Skin for Steam
-From [Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku/tree/master).
-This branch is for **Senren*Banka**.
+From [Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku/tree/master). This branch is for **Senren*Banka**.
 
 ![](Previews/Main.jpg)
 
-Want a dark version? [Try this!](https://github.com/Nofated095/Threshold-Yuzu/tree/CafeStella)
+Want Cafe Stella Skin? [Try this!](https://github.com/Nofated095/Threshold-Yuzu/tree/CafeStella)
 
 <details>
 <summary>Original Content From Jack-Myth/Threshold-Miku</summary>
 
 ## How to Install
- Download the skin,extract the zip file,then Run Install.cmd, it will automatically install to your steam.  
- Or  
- copy the folder to:
-   * Windows - C:\Program Files (x86)\Steam\skins
-   * Mac - /Users/\<username\>/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/skins/
-   * Linux - ~/.steam/skins
+Download the skin, extract the zip file, then run `install.cmd`, it will automatically install to your steam.
+
+Or
+
+copy the folder to:
+* Windows - `C:\Program Files (x86)\Steam\skins`
+* Mac - `/Users/\<username\>/Library/Application Support/Steam/Steam.AppBundle/Steam/Contents/MacOS/skins/`
+* Linux - `~/.steam/skins`
 
 In Arch Linux(& Arch derivatives like Manjaro), you can use AUR packages [Dark](https://aur.archlinux.org/packages/threshold-miku-dark-steam-skin)/[Light](https://aur.archlinux.org/packages/threshold-miku-light-steam-skin)
 
