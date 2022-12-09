@@ -1,4 +1,6 @@
 # Threshold Yuzu Soft Skin for Steam
+**English** | [简体中文](./README-zh_cn.md)
+
 From [Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku/tree/master). This branch is for **Senren*Banka**.
 
 ![](Previews/Main.jpg)

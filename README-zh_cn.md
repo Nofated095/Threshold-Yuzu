@@ -1,4 +1,6 @@
 # 柚子社 Steam 皮肤
+[English](./README.md) | **简体中文**
+
 从 [Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku/tree/master) 中修改。
 
 这个分支「**千恋万花**」天下第一！
