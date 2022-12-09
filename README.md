@@ -1,11 +1,13 @@
-# Threshold Miku Skin for Steam
-From [Threshold Skin](https://github.com/Edgarware/Threshold-Skin)  
-Modified By JackMyth([Find me on Steam](https://steamcommunity.com/id/JackMyth/))  
-
+# Threshold Yuzu Soft Skin for Steam
+From [Threshold-Miku](https://github.com/Jack-Myth/Threshold-Miku/tree/master).
+This branch is for **Senren*Banka**.
 
 ![](Previews/Main.jpg)
 
-Want a dark version? [Try this!](https://github.com/Jack-Myth/Threshold-Miku/tree/master)
+Want a dark version? [Try this!](https://github.com/Nofated095/Threshold-Yuzu/tree/CafeStella)
+
+<details>
+<summary>Original Content From Jack-Myth/Threshold-Miku</summary>
 
 ## How to Install
  Download the skin,extract the zip file,then Run Install.cmd, it will automatically install to your steam.  
@@ -37,3 +39,5 @@ Q: Why my skin looks like this?
 ![](Previews/QA/1.jpg)  
 A: Make sure you have the same setting on both sides.  
 ![](Previews/QA/2.jpg)
+
+</details>
