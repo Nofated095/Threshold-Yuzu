@@ -41,3 +41,7 @@ A: Make sure you have the same setting on both sides.
 ![](Previews/QA/2.jpg)
 
 </details>
+
+## Copyright
+
+All the assets and images are the creation of [YUZUSOFT/JUNOS inc.](https://www.yuzu-soft.com/). © 2022 YUZUSOFT/JUNOS inc. all rights reserved.
