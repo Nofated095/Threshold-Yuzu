@@ -25,7 +25,7 @@ Copy the folder to:
 
 ## How to Use
 1. In Steam, go to Settings > Interface > and choose Threshold Miku from the list of skins.
-2. Restart Steam and enjoy!
+2. Use **SteamLauncher.exe** to open your steam. It will prepare all files that the skin needed.
 
 <!-- # Introduce the Threshold Miku Light For SteamUI
 ![](Previews/NewLibrary.jpg)  
